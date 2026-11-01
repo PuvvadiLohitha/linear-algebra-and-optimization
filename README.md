@@ -1,5 +1,4 @@
-# linear-algebra-and-optimization
-# Linear Algebra & Optimization - M.Tech Coursework
+# Linear Algebra & Optimization 
 
 ## 📁 Repository Structure
 - `linear_systems_3d.ipynb`: Google Colab implementation visualizing linear equation solutions in 3D space using NumPy and Matplotlib.
